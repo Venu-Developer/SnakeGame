@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(196, 187, 176);
+    text-align: center;
+}
+h1{
+    /* text-align: center; */
+    color: rgb(18, 198, 138);
+}
+#msg{
+    margin-bottom:1em;
+
+}
+#Board{
+    border:3px solid rgb(2, 24, 17);
+}
+#score{
+    margin-top: 1.5em;
+    font-size: 1.5em;
+}
